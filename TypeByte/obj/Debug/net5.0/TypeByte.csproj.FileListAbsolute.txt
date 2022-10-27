@@ -1,0 +1,16 @@
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\bin\Debug\net5.0\TypeByte.exe
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\bin\Debug\net5.0\TypeByte.deps.json
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\bin\Debug\net5.0\TypeByte.runtimeconfig.json
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\bin\Debug\net5.0\TypeByte.runtimeconfig.dev.json
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\bin\Debug\net5.0\TypeByte.dll
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\bin\Debug\net5.0\ref\TypeByte.dll
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\bin\Debug\net5.0\TypeByte.pdb
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\obj\Debug\net5.0\TypeByte.csproj.AssemblyReference.cache
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\obj\Debug\net5.0\TypeByte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\obj\Debug\net5.0\TypeByte.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\obj\Debug\net5.0\TypeByte.AssemblyInfo.cs
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\obj\Debug\net5.0\TypeByte.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\obj\Debug\net5.0\TypeByte.dll
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\obj\Debug\net5.0\ref\TypeByte.dll
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\obj\Debug\net5.0\TypeByte.pdb
+C:\Users\android\source\repos\linguagemcsharp\TypeByte\obj\Debug\net5.0\TypeByte.genruntimeconfig.cache
